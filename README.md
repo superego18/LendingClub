@@ -17,7 +17,7 @@ Lending Club dataset
 ### 활동내용
 데이터셋 가공
 - 전처리: Log화,
-- 변수 선택:
+- 변수 선택: autoencoding
 
 모델링 
 - 사용 모듈: sklearn
